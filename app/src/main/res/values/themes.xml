@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Uasbellasolikha" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <style name="Theme.Uasbellasolikha" parent="Base.Theme.Uasbellasolikha" />
+
+    <style name="CurvedBottomLeft">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeBottomLeft">80dp</item>
+        <item name="cornerSizeTopLeft">0dp</item>
+        <item name="cornerSizeTopRight">0dp</item>
+        <item name="cornerSizeBottomRight">0dp</item>
+    </style>
+
+</resources>
